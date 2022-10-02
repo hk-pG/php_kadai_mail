@@ -3,8 +3,8 @@
 //設定
 $a = array(
   'host' => 'alumni.hamako-ths.ed.jp',
-  'user' => 'ei2030',
-  'pass' => 'ei2030@alumni.hamako-ths.ed.jp',
+  'user' => 'ei20xx',
+  'pass' => 'ei20xx@alumni.hamako-ths.ed.jp',
 );
 
 if ($a['user'] == 'ei20xx' || $a['pass'] == 'ei20xx@alumni.hamako-ths.ed.jp') {
